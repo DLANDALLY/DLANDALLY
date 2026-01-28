@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">Junior Java / Backend Developer | Spring Boot & Angular</h3>
+<h3 align="center">Junior Java / Backend Developer | Spring Boot</h3>
 
 <p align="center">
-  🚀 Java • Spring Boot • React • Docker • SQL  
+  🚀 Java • Spring Boot • Angular • Docker • SQL  
   <br/>
   🇫🇷 France → 🇨🇦 Canada (PVT / Jeunes Professionnels)
 </p>
