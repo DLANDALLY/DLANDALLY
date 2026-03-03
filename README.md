@@ -4,7 +4,7 @@
 <p align="center">
   🚀 Java • Spring Boot • Angular • Docker • SQL  
   <br/>
-  🇫🇷 France → 🇨🇦 Canada (PVT / Jeunes Professionnels)
+  <!--🇫🇷 France → 🇨🇦 Canada (PVT / Jeunes Professionnels)-->
 </p>
 
 ---
