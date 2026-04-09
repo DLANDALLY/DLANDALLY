@@ -1,88 +1,64 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">Junior Java / Backend Developer | Spring Boot</h3>
+<h3 align="center">Backend Engineer | Java • Spring Boot • Cloud & AI Automation</h3>
 
 <p align="center">
-  🚀 Java • Spring Boot • Angular • Docker • SQL  
-  <br/>
-  <!--🇫🇷 France → 🇨🇦 Canada (PVT / Jeunes Professionnels)-->
+  I build scalable backend systems and AI-powered automation tools using modern cloud ecosystems.
 </p>
 
 ---
 
-## 👨‍💻 About me
+## 🚀 Featured Product
 
-I'm a **Junior Software Developer** specialized in **Java & Spring Boot**, currently finishing a **Bachelor-level training in Software Application Development**.
+### 🤖 Simply Receipt
 
-I enjoy building **clean, scalable backend applications**, working with APIs, databases, and modern development tools.  
-My goal is to grow into a **solid backend developer**, then evolve toward **software architecture**.
+**AI-powered expense tracking via Telegram bot**
 
----
+> Turn any receipt into structured financial data — instantly.
 
-## 🔭 What I’m currently working on
-
-- 🧠 **Family Event Planner** – Full-stack app (Spring Boot + Angular)
-- 🛠 REST APIs with clean architecture
-- 🧪 Unit & integration testing (JUnit, Mockito)
-- 🐳 Dockerized environments (PostgreSQL, multi-containers)
+👉 **View project:** https://github.com/DLANDALLY/SimplyReceiptBot
 
 ---
 
-## 🧰 Tech Stack
+## 💡 Problem
 
-### 🖥 Backend
-- Java 17
-- Spring Boot
-- JPA / Hibernate
-- REST APIs
-
-### 🎨 Frontend
-- Angular 20
-- TypeScript
-- HTML / SCSS
-
-### 🗄 Databases
-- MySQL
-- PostgreSQL
-- MongoDB
-
-### ⚙️ Tools & DevOps
-- Docker
-- Git / GitHub Action
-- IntelliJ IDEA
-- VS Code
-- Jira / Bitbucket
+Tracking expenses manually is inefficient, error-prone, and rarely maintained over time.
 
 ---
 
-## 📌 Featured Projects
+## ⚡ Solution
 
-- **Family Event Planner**  
-  Event creation, guest management, shared contributions, messaging system  
-  _Spring Boot • React • MySQL_
+Simply Receipt automates the entire expense tracking workflow:
 
-- **Java Testing Playground**  
-  Advanced unit testing with mocks and clean test architecture  
-  _JUnit • Mockito_
-
-- **Personal Java APIs**  
-  REST APIs following best practices and clean code principles
+- 📸 Capture a receipt via Telegram
+- 🧠 Extract structured data using OCR (Google Vision) + AI (Gemini)
+- ☁️ Process and store data in a cloud-based system (GCP)
+- 📊 Make expenses accessible and trackable over time (Google Sheets / DB)
 
 ---
 
-## 🌱 Currently learning
+## 🏗 Engineering Focus
 
-- Advanced testing strategies in Java
-- Clean Architecture & best practices
-- Improving technical English 🇬🇧
-
----
-
-## 📫 Let’s connect
-
-- 📧 Email: **daniel.landally@hotmail.fr**
-- 💼 LinkedIn: *https://www.linkedin.com/in/daniel-l-625801167/*
-- 🌐 Portfolio: *https://portfolio-angular-inky.vercel.app/*
+- Designing **automation workflows**
+- Integrating **AI into real-world use cases**
+- Building **scalable backend systems on cloud infrastructure**
 
 ---
 
-⭐️ Thanks for visiting my GitHub profile!
+## 🧠 Other Projects
+
+### Family Event Planner
+Full-stack event management system
+
+`Spring Boot • Angular • MySQL`
+
+---
+
+## 📫 Contact
+
+- 📧 daniel.landally@hotmail.fr
+- 💼 LinkedIn: https://www.linkedin.com/in/daniel-l-625801167/
+- 🌐 Portfolio: https://portfolio-angular-inky.vercel.app/
+
+---
+
+⭐️ Building real-world automation tools with AI & cloud.
