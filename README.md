@@ -57,6 +57,8 @@ Full-stack event management system
 
 - 📧 daniel.landally@hotmail.fr
 - 💼 LinkedIn: https://www.linkedin.com/in/daniel-l-625801167/
+- 🌐 Family Event Planner: https://familyeventsplanner.org
+- 🌐 Simply receipt: https://t.me/SimplyReceiptBot
 - 🌐 Portfolio: https://portfolio-angular-inky.vercel.app/
 - 📄 Technical document: https://drive.google.com/file/d/1SA4zshTFKg4RuujpMFulI7AoVCuqZyRL/view?usp=sharing
 
