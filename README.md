@@ -58,7 +58,7 @@ Full-stack event management system
 - 📧 daniel.landally@hotmail.fr
 - 💼 LinkedIn: https://www.linkedin.com/in/daniel-l-625801167/
 - 🌐 Portfolio: https://portfolio-angular-inky.vercel.app/
-- 📄 Technical document: https://drive.google.com/file/d/1khfTB2I15j71b9r3ePlx3LCDLT_cmDGA/view?usp=sharing
+- 📄 Technical document: https://drive.google.com/file/d/1SA4zshTFKg4RuujpMFulI7AoVCuqZyRL/view?usp=sharing
 
 ---
 
